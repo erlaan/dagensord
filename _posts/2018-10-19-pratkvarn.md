@@ -10,7 +10,7 @@ Pratkvarn = Chatterbox
 
 *Pratkvarn* is someone talking a lot. It's two different words, *prat/prata* (to talk) and *kvarn* (a mill - as in windmill) written together.
 
-As a side note, the phrase *mala på* is synonymous to *pratkvarn* and was invented in either 1838, 1843 or 1904.
+As a side note, the phrase *mala på* is synonymous to *pratkvarn* and was invented in either 1838, 1843 or 1904 according to Linda (who, ironically, happens to be a *pratkvarn*).
 
 ![Pratkvarn]({{ site.baseurl }}/assets/post_images/pratkvarn.jpg)
 
