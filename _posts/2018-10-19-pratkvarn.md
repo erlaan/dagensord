@@ -19,6 +19,6 @@ As a side note, the phrase *mala på* is synonymous to *pratkvarn* and was inven
 ### Examples
 
 > * Linda kan aldrig vara tyst, hon är en pratkvarn som bara maler på.
-> * Linda can never be quiet, shit is a chatterbox that just keeps on going.
+> * Linda can never be quiet, she is is a chatterbox that just keeps on going.
 
 
